@@ -30,7 +30,7 @@ There are 15,663 five-star reviews from non-vine members.
 
 About 51% of the reviews are five-star for vine members.
 
-![image](https://user-images.githubusercontent.com/99365550/176326505-a9a0e457-b4b9-42f5-9eb0-8e37f494b4f1.png)
+![image](https://github.com/TannerOrmanoski/Amazon_Vine_Analysis/blob/main/Module16_photos/Screen%20Shot%202022-06-28%20at%207.19.41%20PM.png)
 
 About 38.7% of the reviews are five-star for the non-vine members.
 
